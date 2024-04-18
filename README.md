@@ -1,3 +1,2 @@
 # compiler-scanner
-
-## a scanner practice, the input file is scanner.c itself
+## a scanner practice, the input file is scanner.c itself.
