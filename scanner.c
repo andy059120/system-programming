@@ -230,7 +230,7 @@ void start(FILE *fin, FILE *fout)
 
 int main()
 {
-    FILE *inputFile = fopen("123.txt", "r");
+    FILE *inputFile = fopen("intput.txt", "r");
     FILE *outputFile = fopen("output.txt", "w");
     if (inputFile == NULL)
     {
